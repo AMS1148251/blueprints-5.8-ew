@@ -1,0 +1,82 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B410D527-40BB-8DCD-66E9-90A4B2E7EC2D}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "Adjust",
+			"Enabled": true
+		},
+		{
+			"Name": "AESGCMHandlerComponent",
+			"Enabled": true
+		},
+		{
+			"Name": "AIAssistant",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayBehaviors",
+			"Enabled": true
+		},
+		{
+			"Name": "AlembicHairImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteDatabaseSupport",
+			"Enabled": true
+		},
+		{
+			"Name": "SQLiteCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SQLiteSupport",
+			"Enabled": true
+		},
+		{
+			"Name": "AndroidFetchBackgroundDownload",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "MassCrowd",
+			"Enabled": true
+		},
+		{
+			"Name": "IOSTapJoy",
+			"Enabled": true
+		},
+		{
+			"Name": "TextToSpeech",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenCV",
+			"Enabled": true
+		}
+	]
+}
