@@ -153,18 +153,6 @@
 		{
 			"Name": "Workspace",
 			"Enabled": true
-		},
-		{
-			"Name": "PixelCapture",
-			"Enabled": true
-		},
-		{
-			"Name": "PixelStreamingPlayer",
-			"Enabled": true
-		},
-		{
-			"Name": "PixelStreaming2",
-			"Enabled": true
 		}
 	]
 }
